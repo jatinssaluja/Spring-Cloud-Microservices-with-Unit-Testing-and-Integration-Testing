@@ -1,0 +1,3 @@
+insert into coupon(id,code, discount, exp_date) values(1,"SUPERSALE1",10,"12/12/2020");
+insert into coupon(id,code, discount, exp_date) values(2,"SUPERSALE2",20,"10/12/2020");
+insert into coupon(id,code, discount, exp_date) values(3,"SUPERSALE3",30,"15/12/2020");

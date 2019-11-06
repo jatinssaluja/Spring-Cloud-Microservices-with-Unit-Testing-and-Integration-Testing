@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.jatin.springcloud.model.Product.couponCode&apos; in &apos;com.jatin.springcloud.model.Product&apos;&#x0A;- Original project: &apos;productservice&apos;&#x0A;- Original element: &apos;com.jatin.springcloud.model.Product.couponCode&apos;&#x0A;- Getter method name: &apos;getCouponCode&apos;&#x0A;- Setter method name: &apos;setCouponCode&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;couponCode&apos;" flags="589830" getter="getCouponCode" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java&lt;com.jatin.springcloud.model{Product.java[Product^couponCode" insertion="7" setter="setCouponCode" stamp="1571688997691" version="1.0" visibility="1"/>
+</session>

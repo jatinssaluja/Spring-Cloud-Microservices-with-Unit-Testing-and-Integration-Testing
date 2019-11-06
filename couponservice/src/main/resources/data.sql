@@ -1,0 +1,1 @@
+INSERT INTO coupon (id,code,discount,exp_date) VALUES (1,'SUPERSALE1',10,'12-12-2020');

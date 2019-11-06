@@ -1,0 +1,5 @@
+package com.jatin.springcloud.model;
+
+public class Coupon {
+
+}

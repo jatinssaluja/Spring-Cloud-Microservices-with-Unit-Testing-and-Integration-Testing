@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CouponRestControllerTest" project="couponservice" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="com.jatin.springcloud.controllers.CouponRestControllerTest" time="0.384">
+    <testcase name="getCouponByCodeWithException" classname="com.jatin.springcloud.controllers.CouponRestControllerTest" time="0.194"/>
+    <testcase name="getCouponByCodeWithoutException" classname="com.jatin.springcloud.controllers.CouponRestControllerTest" time="0.039"/>
+    <testcase name="createCouponWithoutException" classname="com.jatin.springcloud.controllers.CouponRestControllerTest" time="0.139"/>
+    <testcase name="getCoupons" classname="com.jatin.springcloud.controllers.CouponRestControllerTest" time="0.012"/>
+  </testsuite>
+</testrun>

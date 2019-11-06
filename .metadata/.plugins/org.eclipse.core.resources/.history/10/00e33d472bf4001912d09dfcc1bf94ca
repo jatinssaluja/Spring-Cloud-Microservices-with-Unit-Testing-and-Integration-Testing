@@ -1,0 +1,12 @@
+package com.jatin.springcloud.restclients;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient
+public interface CouponClient {
+	
+	Coupon getCoupon(String code) {
+		
+	}
+
+}
